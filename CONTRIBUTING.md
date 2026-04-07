@@ -9,6 +9,7 @@
 
 ## Code Contributions
 
+
 The ten minimum requirements for code contributions are:
 
 1. All Pull Requests _must_ be based off the `develop` branch.
